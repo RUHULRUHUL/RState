@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "80537221513",
+    "firebase_url": "https://qrscanner-e7cf9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "qrscanner-e7cf9",
+    "storage_bucket": "qrscanner-e7cf9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80537221513:android:f49e2f41e60c2d4cc08958",
+        "android_client_info": {
+          "package_name": "com.bddoctor.apointment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80537221513-epvb08hsc9kr25miigbhafdihpidfk14.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bddoctor.apointment",
+            "certificate_hash": "4a3ce77ff8d531372208aa04d1ab7346ff67ae25"
+          }
+        },
+        {
+          "client_id": "80537221513-lgj7mnc2el3gmfc8bvn3698m8ikaraip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9GfqNeSz7-8f-ImL0wozIzcYM2ad8CEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80537221513-lgj7mnc2el3gmfc8bvn3698m8ikaraip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80537221513:android:c8815c31ac28ca85c08958",
+        "android_client_info": {
+          "package_name": "com.house.search_near"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80537221513-2bv9qok0vo4vpa70iiom3r34mvnqnuan.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.house.search_near",
+            "certificate_hash": "4a3ce77ff8d531372208aa04d1ab7346ff67ae25"
+          }
+        },
+        {
+          "client_id": "80537221513-lgj7mnc2el3gmfc8bvn3698m8ikaraip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9GfqNeSz7-8f-ImL0wozIzcYM2ad8CEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80537221513-lgj7mnc2el3gmfc8bvn3698m8ikaraip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
